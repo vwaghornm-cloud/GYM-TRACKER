@@ -1,0 +1,24 @@
+{
+  "name": "Gym Tracker App Pro",
+  "short_name": "Gym Tracker",
+  "description": "Tracker de entrenamiento personal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c0e",
+  "theme_color": "#0c0c0e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/bc13fe/ffffff?text=GYM",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/bc13fe/ffffff?text=GYM",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
